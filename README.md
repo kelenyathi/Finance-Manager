@@ -1,13 +1,11 @@
 # Finance-Manager
 
 
-A simple Web Application for xxxxxx
+A simple Web Application for real-world situation, creating code for analyzing the financial records of a company.
 
 Getting Started:
 
-Simply open up the deployed link xxxxxx and explore the website:
-
-Xxxxxx
+Simply open up the deployed link https://kelenyathi.github.io/Finance-Manager/ and explore the website.
 
 Application deployed at live URL.
 
@@ -17,7 +15,9 @@ GitHub repository contains application code.
 
 Built With
 
-Xxxxxxx
+HTML
+JS
+
 
 License
 
